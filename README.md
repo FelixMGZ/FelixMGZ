@@ -4,6 +4,9 @@
 
 I am an enthusiastic and passionate web developer with one year of experience in developing web applications. My goal is to continue growing professionally while contributing my technical and creative skills to challenging and exciting projects.
 
+### Languages and Tools
+<img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+
 ### Technical Skills:
 
 - Proficient in HTML5, CSS3, and JavaScript for building interactive and responsive user interfaces.
@@ -11,7 +14,6 @@ I am an enthusiastic and passionate web developer with one year of experience in
 - Basic knowledge of back-end frameworks like Node.js and Express.js for developing RESTful APIs and full-stack web applications.
 - Familiarity with relational databases like MySQL and SQL language for efficient data storage and management.
 - Experience with version control systems like Git for source code management and team collaboration.
-
 
 ### Education:
 
@@ -32,3 +34,6 @@ Ministerio de la Tecnologia de la Informacion (Mintic) - Universidad Industrial 
 ### Professional Objective:
 
 As a web developer, I am seeking opportunities to continue developing my technical skills and experience in a dynamic and collaborative work environment. I am excited about the possibility of contributing to innovative and challenging projects while continuing to grow professionally in the field of web development.
+
+# CONTACT ME felixmartinezg218@gmail.com
+  <img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
