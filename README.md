@@ -1,7 +1,5 @@
 # Hi, 👋 I'm Felix Martinez
 
-## Professional Profile: Web Developer
-
 I am an enthusiastic and passionate web developer with one year of experience in developing web applications. My goal is to continue growing professionally while contributing my technical and creative skills to challenging and exciting projects.
 
 ### Languages and Tools
@@ -25,6 +23,8 @@ I am an enthusiastic and passionate web developer with one year of experience in
     <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></td>
     <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></td>
     <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></td>
+    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></td>
+    <td><img alt="Shows an illustrated" height="40" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"></td>
   </tr>
 </table>
 
@@ -36,15 +36,6 @@ I am an enthusiastic and passionate web developer with one year of experience in
 - Familiarity with relational databases like MySQL and SQL language for efficient data storage and management.
 - Experience with version control systems like Git for source code management and team collaboration.
 
-### Education:
-
-- Tecnólogo Multimedia - 2016
-Universidad Autónoma del Caribe - SENA
-
-- cursos - 2022
-Desarrollo Aplicaciones Web
-Desarrollo de Software
-Ministerio de la Tecnologia de la Informacion (Mintic) - Universidad Industrial de Santander (UIS)
 
 ### Personal Skills:
 
