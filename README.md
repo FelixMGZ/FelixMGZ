@@ -1,6 +1,6 @@
 # Hi, 👋 I'm Felix Martinez
 
-I am an enthusiastic and passionate web developer with experience in developing web applications. My goal is to continue growing professionally while contributing my technical and creative skills to challenging and exciting projects.
+I am a passionate and enthusiastic web developer. My goal is to continue growing professionally while contributing my technical and creative skills to challenging and exciting projects.
 
 ### Languages and Tools
 
