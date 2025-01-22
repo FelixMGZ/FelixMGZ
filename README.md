@@ -47,4 +47,3 @@ I am a passionate and enthusiastic web developer. My goal is to continue growing
 
 As a web developer, I am seeking opportunities to continue developing my technical skills and experience in a dynamic and collaborative work environment. I am excited about the possibility of contributing to innovative and challenging projects while continuing to grow professionally in the field of web development.
 
-#### CONTACT ME felixmartinezg218@gmail.com
