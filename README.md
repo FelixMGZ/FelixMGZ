@@ -1,49 +1,53 @@
-# Hi, 👋 I'm Felix Martinez
+<h1 align="left"><b>Hi , I'm Felix Martinez G. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
+<!--  -->
+  <h2>About Me</h2>
+  <ul>
+    <li>I'm a web developer</li>
+    <li>I like to go to the gym and exercise</li>
+    <li>I have learned to program and develop apps on my own</li>
+  </ul>
 
-I am a passionate and enthusiastic web developer. My goal is to continue growing professionally while contributing my technical and creative skills to challenging and exciting projects.
+<h3> ... </h3>
+<!--  -->
+<h2>Skills</h2>
+<h3>Languages</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,py&theme=dark" />
+  </a>
+</p>
+<h3>Markup Languages - Cascading Style Sheet </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+  </a>
+</p>
+<h3>Frameworks and Libraries</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  </a>
+</p>
+<h3>DataBase</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark" />
+  </a>
+</p>
+<h3>Tools</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,npm,git,github&theme=dark" />
+  </a>
+</p>
 
-### Languages and Tools
+<h2>GitHub Stats</h2>
+<!--  -->
 
-<table style="color: red">
-  <tr>
-    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://cdn.worldvectorlogo.com/logos/python-3.svg"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><a href="https://es.react.dev/" target="_blank" rel="noopener noreferrer"><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png"></a></td>
-    <td><a href="https://angular.io/" target="_blank" rel="noopener noreferrer"><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"></td>
-    <td><a href="https://dev.mysql.com/" target="_blank" rel="noopener noreferrer"><img alt="Shows an illustrated" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></td>
-    <td><img alt="Shows an illustrated" height="40" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"></td>
-  </tr>
-</table>
-
-### Technical Skills:
-
-- Proficient in HTML5, CSS3, and JavaScript for building interactive and responsive user interfaces.
-- Experience using front-end frameworks such as React.js and state management tools like Redux to create dynamic user experiences.
-- Basic knowledge of back-end frameworks like Node.js and Express.js for developing RESTful APIs and full-stack web applications.
-- Familiarity with relational databases like MySQL and SQL language for efficient data storage and management.
-- Experience with version control systems like Git for source code management and team collaboration.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixMGZ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Personal Skills:
-
-- Strong learning ability and adaptability to new technologies and development environments.
-- Excellent problem-solving skills and ability to work effectively under pressure.
-- Strong communication and teamwork skills, with the ability to collaborate with designers, developers, and other team members to achieve common goals.
-
-### Professional Objective:
-
-As a web developer, I am seeking opportunities to continue developing my technical skills and experience in a dynamic and collaborative work environment. I am excited about the possibility of contributing to innovative and challenging projects while continuing to grow professionally in the field of web development.
+<h2>Professional Objective:</h2>
+<!--  -->
+<p>As a web developer, I am seeking opportunities to continue developing my technical skills and experience in a dynamic and collaborative work environment. I am excited about the possibility of contributing to innovative and challenging projects while continuing to grow professionally in the field of web development.</p>
 
