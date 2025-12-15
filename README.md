@@ -1,53 +1,48 @@
-<h1 align="left"><b>Hi , I'm Felix Martinez G. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
-<!--  -->
-  <h2>About Me</h2>
-  <ul>
-    <li>I'm a web developer</li>
-    <li>I like to go to the gym and exercise</li>
-    <li>I have learned to program and develop apps on my own</li>
-  </ul>
+<h1 align="center">
+  <img src="https://github.com/FelixMGZ/FelixMGZ/blob/main/imagen/imagen_001.png" alt="ShoeStore E-Commerce" width="100%"/>
+</h1>
 
-<h3> ... </h3>
-<!--  -->
-<h2>Skills</h2>
-<h3>Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,py&theme=dark" />
-  </a>
-</p>
-<h3>Markup Languages - Cascading Style Sheet </h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-  </a>
-</p>
-<h3>Frameworks and Libraries</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  </a>
-</p>
-<h3>DataBase</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo&theme=dark" />
-  </a>
-</p>
-<h3>Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,npm,git,github&theme=dark" />
-  </a>
-</p>
+<h1 align="left"><b>Hi, I'm Felix Martinez G. 👋</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 
-<h2>GitHub Stats</h2>
-<!--  -->
+<h3>🚀 Mobile, Backend & Web Developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixMGZ&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<ul>
+    <li>📱 I develop native and cross-platform mobile apps (Kotlin & Flutter).</li>
+    <li>💻 I build responsive web applications with Vanilla JS & Bootstrap.</li>
+    <li>⚙️ I build robust backends with Spring Boot & PostgreSQL.</li>
+    <li>💡 I'm a self-taught developer passionate about clean code.</li>
+</ul>
 
+---
 
-<h2>Professional Objective:</h2>
-<!--  -->
-<p>As a web developer, I am seeking opportunities to continue developing my technical skills and experience in a dynamic and collaborative work environment. I am excited about the possibility of contributing to innovative and challenging projects while continuing to grow professionally in the field of web development.</p>
+### 🛠️ Tech Stack (Mis Herramientas)
 
+| Móvil | Backend & Base de Datos | Web | Herramientas |
+| :--- | :--- | :--- | :--- |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+| | | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects
+
+| Proyecto | Descripción | Tech |
+| :--- | :--- | :--- |
+| **[🛒 Ecommerce Shoe Store](https://github.com/FelixMGZ/Ecommerce_shoeStore_1.0)** | Tienda en línea responsiva con gestión de productos. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[📝 Hive Task Manager](https://github.com/FelixMGZ/App_task_to_do)** | Gestor de tareas offline con persistencia de datos local. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-DB-ffca28?style=flat-square) |
+| **[📈 CryptoTracker API](https://github.com/FelixMGZ/API---List-of-Cryptocurrencies)** | Monitor de mercado cripto en tiempo real (API REST). | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![API](https://img.shields.io/badge/API-REST-000000?style=flat-square) |
+| **[💾 Backend CRUD API](https://github.com/FelixMGZ/Basic-API-REST-CRUD-Kotlin-SpringBoot-PostgreSQL)** | API robusta con conexión a base de datos relacional. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixMGZ&layout=compact&theme=radical)
+
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixMGZ&show_icons=true&theme=radical)
+
+---
+
+### Professional Objective
+<p>As a <b>Full Stack Developer (Mobile & Web)</b>, I seek opportunities to leverage my skills in <b>Flutter, Kotlin, and Web Technologies</b>. I am eager to contribute to challenging projects, focusing on delivering high-quality software solutions.</p>
