@@ -30,8 +30,8 @@
 
 | Proyecto | Descripción | Tech |
 | :--- | :--- | :--- |
+| **[🚀 RocketList ](https://github.com/FelixMGZ/RokectList)** |RocketList is a modern and robust task & project management application designed to streamline personal organization. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
 | **[🛒 Ecommerce Shoe Store](https://github.com/FelixMGZ/Ecommerce_shoeStore_1.0)** | Tienda en línea responsiva con gestión de productos. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[📝 Hive Task Manager](https://github.com/FelixMGZ/App_task_to_do)** | Gestor de tareas offline con persistencia de datos local. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-DB-ffca28?style=flat-square) |
 | **[📈 CryptoTracker API](https://github.com/FelixMGZ/API---List-of-Cryptocurrencies)** | Monitor de mercado cripto en tiempo real (API REST). | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![API](https://img.shields.io/badge/API-REST-000000?style=flat-square) |
 | **[💾 Backend CRUD API](https://github.com/FelixMGZ/Basic-API-REST-CRUD-Kotlin-SpringBoot-PostgreSQL)** | API robusta con conexión a base de datos relacional. | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
 
